@@ -1,0 +1,10 @@
+main {
+  max-width: 500px;
+  margin: 40px auto;
+}
+
+.actors li {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2em;
+}
